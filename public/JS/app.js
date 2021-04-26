@@ -1,4 +1,4 @@
-console.log('Client side JavaScrip File is Loaded!')
+// console.log('Client side JavaScrip File is Loaded!')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>{
