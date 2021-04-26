@@ -39,8 +39,7 @@ app.get('/help',(req,res)=>{
     res.render('help',{
         name: 'Abhishek Batra',
         title: 'Help Page',
-        userName: 'Jai',
-        message: 'Unable To Login!'
+        message: 'Mention Your Issue!'
     })
 })
 
